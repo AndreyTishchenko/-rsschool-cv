@@ -43,7 +43,7 @@ TG: @andrewtishchenko
 * CSS Grid
 ## My projekts ##
 ### Notepad
-*Project description:*<br>
+*Project description:*
 A notebook where you can add new entries. Entries appear to the left of the notebook as links with
 text
 in
@@ -56,7 +56,7 @@ html,
 css,
 js.
 ### Calendar
-*Project description:*<br>
+*Project description:*
 Calendar that shows the current day, year and month, the current day is highlighted, there is still the
 possibility
 transition
@@ -66,7 +66,7 @@ html,
 css,
 JS.<br>
 ###  Completion
-*Project description:*<br>
+*Project description:*
 A site in which there is an input field and as you enter under this field, the names of countries that
 start with
 the text entered in the field.<br>
@@ -75,21 +75,21 @@ html,
 css,
 JS.<br>
 ###  Checklist
-*Project description:*<br>
+*Project description:*
 Checklist with the function of adding tasks, deleting tasks and crossing out completed tasks.<br>
 *Skills used:*
 html,
 css,
 JS.<br>
 ###  Poll 
-*Project description:*<br>
+*Project description:*
 Mass questionnaire with the percentage of answers.<br>
 *Skills used:*
 html,
 css,
 JS.<br>
 ###  Test with questions 
-*Project description:*<br>
+*Project description:*
 A site with a test that shows the percentage of correct answers, the number of incorrect and the number of
 questions
 without
@@ -99,14 +99,14 @@ html,
 css,
 JS.<br>
 ### Tic Tac Toe
-*Project description:*<br>
+*Project description:*
 Implementation of the classic tic-tac-toe game with a 3 by 3 field.<br>
 *Skills used:*
 html,
 css,
 JS.<br>
 ### Calculator
-*Project description:*<br>
+*Project description:*
 Calculator implementation with addition, subtraction, multiplication, and division functions, as well as a
 delete function
 Total
