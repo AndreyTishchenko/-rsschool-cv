@@ -1,7 +1,7 @@
 # Tishchenko Andrew #
 ## Frontend developer ##
-Discord: Андрей222#7012
-Email: andreyspike555@gmail.com
+Discord: Андрей222#7012<br>
+Email: andreyspike555@gmail.com<br>
 TG: @andrewtishchenko
 ## Additional education ##
 ### JavaScript + JQary for beginners Trepachev Dmitry 01.09.2022 - Until now
