@@ -1,0 +1,33 @@
+.naw-li{
+    display: inline;
+    margin-top: 10px;
+}
+
+#nav-ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+header{
+    height: 40px;
+    background-color: rgb(220, 216, 216);
+    width: 100%;
+}
+
+#logo-rsschool{
+    height: 10%;
+    width: 10%;
+}
+#foother{
+    background-color: rgb(166, 166, 166);
+}
+#link-on-rsschool{
+    margin-left: 100px;
+}
+#my-photo{
+    height: 10%;
+    width: 10%;
+}
+body{
+    background-color: rgba(189, 185, 185, 0.861);
+}
